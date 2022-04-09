@@ -1,0 +1,2 @@
+init	123456	1	5	3
+charityname	password	1	5	6
